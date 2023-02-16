@@ -6,7 +6,7 @@ const book = {
 
 function printbookInfo(book){
  console.log("Titre: L'Enfant Noir ");
- console.log('Auteur: Camarade Laye');
+ console.log('Auteur: Camara  Laye' );
  console.log('annèe: 1953');
 }
 
