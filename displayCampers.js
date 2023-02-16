@@ -1,1 +1,2 @@
-console.log( "'codeloccol  Campeurs'");
+const codeloccol = {}
+console.lo("'codeloccol Campeurs'");
